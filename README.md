@@ -1,16 +1,10 @@
 ![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Min Kaung sett</h1>
-<h3 align="center">A passionate frontend developer from Myanmar. I love coding and passionate about technology and programming.</h3>
+<h3 align="center">A passionate Web developer. I love coding and passionate about technology and programming.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jennyxe&label=Profile%20views&color=0e75b6&style=flat" alt="jennyxe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kaungsett0" target="blank"><img src="https://img.shields.io/twitter/follow/kaungsett0?logo=twitter&style=for-the-badge" alt="kaungsett0" /></a> </p>
-
-- 🌱 I’m currently learning **React Native, Javascript.**
-
-- 💬 Ask me about **Web, Android**
+- 🌱 I’m currently learning **React Native, API, Javascript.**
 
 - 📫 How to reach me **minkaungsett.mm@gmail.com**
 
