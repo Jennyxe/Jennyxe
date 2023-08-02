@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **minkaungsett.mm@gmail.com**
 
-- 📄 Know about my experiences [app.resumai.com/s/uLlxYA57Pjte9ldwLOGm](app.resumai.com/s/uLlxYA57Pjte9ldwLOGm)
+
 
 - ⚡ Fun fact **I’m a problem solver. I love taking a problem and looking at it from every angle. I enjoy work that challenges me and pushes me to think outside the box. I enjoy situations where I am allowed to work with other people to come up with creative solutions.**
 
