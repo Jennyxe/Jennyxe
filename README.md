@@ -10,7 +10,7 @@
 
 
 
-- ⚡ Fun fact **I’m a problem solver. I love taking a problem and looking at it from every angle. I enjoy work that challenges me and pushes me to think outside the box. I enjoy situations where I am allowed to work with other people to come up with creative solutions.**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
