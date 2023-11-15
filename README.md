@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native, API, Javascript.**
+- 🌱 I’m currently learning **React, Next, API.**
 
 - 📫 How to reach me **minkaungsett.mm@gmail.com**
 
